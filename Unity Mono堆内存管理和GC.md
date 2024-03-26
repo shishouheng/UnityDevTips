@@ -5,7 +5,7 @@
 
 ![[GameRunningMemory.png]]
 
-![]([UnityDevTips/Image/GameRunningMemory.png at main · shishouheng/UnityDevTips (github.com)](https://github.com/shishouheng/UnityDevTips/blob/main/Image/GameRunningMemory.png))
+[UnityDevTips/Image/GameRunningMemory.png at main · shishouheng/UnityDevTips (github.com)](https://github.com/shishouheng/UnityDevTips/blob/main/Image/GameRunningMemory.png)
 
 
 在C#代码中内存分为堆栈和托管堆两部分，其中托管堆就是Mono内存。堆栈的内存由编译器进行分配和释放，托管堆则通过Mono的GC来进行管理，由于GC的过程较为耗时容易造成游戏的卡顿，因此开发者也需要对GC进行管理避免频繁触发GC影响玩家游戏体验。
@@ -18,7 +18,7 @@ Mono内存又分为两部分，已用内存（used）和堆内存（heap）
 当mono需要分配内存时会先查看空闲内存是否足够，如果足够会直接在空闲内存中分配，否则会进行一次GC来释放更多的空闲内存，如果GC后仍然没有足够的空闲内存，那么mono会向操作系统申请内存并扩充堆内存
 
 ![[GCFlow.png]]
-![]([UnityDevTips/Image/GCFlow.png at main · shishouheng/UnityDevTips (github.com)](https://github.com/shishouheng/UnityDevTips/blob/main/Image/GCFlow.png))
+[UnityDevTips/Image/GCFlow.png at main · shishouheng/UnityDevTips (github.com)](https://github.com/shishouheng/UnityDevTips/blob/main/Image/GCFlow.png)
 
 由此可知道GC的主要作用是从已用内存中找出不再需要被使用的内存并进行释放。Mono中的GC主要有以下几个步骤：
 1.停止所有需要mono内存分配的线程（因此无论是否在主线程调用都会造成一定的卡顿）
