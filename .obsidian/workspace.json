@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "b79021f9d9238ac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5878253eb4fe58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bcb613d137a176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity Mono堆内存管理和GC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ade1a92a8b3f84ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "88536042f6abf2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02fe48d3f6750fdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1582afc97a1e5a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c07272208c909de8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82786a5c2f7329cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdbfbec700bd0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4230f71d4486be2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity Mono堆内存管理和GC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7951ee280f865df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity Mono堆内存管理和GC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb1961e6b2fe3f3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02e4d43796fa9b62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity Mono堆内存管理和GC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b3bcb613d137a176",
+  "lastOpenFiles": [
+    "Image/GCFlow.png",
+    "Image/GameRunningMemory.png",
+    "Unity Mono堆内存管理和GC.md",
+    "Image"
+  ]
+}
