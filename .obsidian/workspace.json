@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Mono堆内存管理和GC.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ede505f63c982f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mono和IL2CPP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity Mono堆内存管理和GC.md",
+                "file": "Mono和IL2CPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity Mono堆内存管理和GC.md",
+                "file": "Mono和IL2CPP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity Mono堆内存管理和GC.md"
+                "file": "Mono和IL2CPP.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b3bcb613d137a176",
+  "active": "4ede505f63c982f1",
   "lastOpenFiles": [
+    "Unity Mono堆内存管理和GC.md",
+    "Mono和IL2CPP.md",
+    "README.md",
     "Image/GCFlow.png",
     "Image/GameRunningMemory.png",
-    "Unity Mono堆内存管理和GC.md",
     "Image"
   ]
 }
