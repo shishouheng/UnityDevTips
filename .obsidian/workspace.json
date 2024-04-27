@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dbeb532f350e970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python装饰器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mono和IL2CPP.md",
+                "file": "Python装饰器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mono和IL2CPP.md",
+                "file": "Python装饰器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mono和IL2CPP.md"
+                "file": "Python装饰器.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ede505f63c982f1",
+  "active": "9dbeb532f350e970",
   "lastOpenFiles": [
-    "Unity Mono堆内存管理和GC.md",
-    "Mono和IL2CPP.md",
     "README.md",
+    "Python装饰器.md",
+    "Mono和IL2CPP.md",
+    "Unity Mono堆内存管理和GC.md",
     "Image/GCFlow.png",
     "Image/GameRunningMemory.png",
     "Image"
