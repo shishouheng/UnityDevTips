@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c1b6cec9f301f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/大世界性能优化方案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Note/大世界性能优化方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Note/大世界性能优化方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Note/大世界性能优化方案.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "02fe48d3f6750fdd",
+  "active": "8c1b6cec9f301f71",
   "lastOpenFiles": [
+    "README.md",
+    "Note/大世界性能优化方案.md",
     "GenerateDirectory.py",
     "Note/Unity Mono堆内存管理和GC.md",
-    "README.md",
     "Note/Mono和IL2CPP.md",
     "Note/Python装饰器.md",
     "Note",
